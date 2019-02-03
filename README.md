@@ -1,4 +1,4 @@
-# Tic Tac Toe version 2.0
+# Tic Tac Toe version 2.0  [![Build Status](https://travis-ci.org/LotfiBoukhemerra/Tic-Tac-Toe.svg?branch=master)](https://travis-ci.org/LotfiBoukhemerra/Tic-Tac-Toe)
 
 ## Screenshot
 
